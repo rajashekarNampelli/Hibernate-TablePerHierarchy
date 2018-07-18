@@ -6,4 +6,4 @@ CREATE TABLE IF NOT EXISTS employee101 (
   bonus numeric(10,0) ,
   contact_duration VARCHAR(200) DEFAULT NULL,
   PRIMARY KEY (id)
-) ENGINE=InnoDB
+) 
